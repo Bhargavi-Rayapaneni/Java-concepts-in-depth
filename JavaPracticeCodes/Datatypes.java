@@ -18,7 +18,9 @@ public class Datatypes {
         /* Character which is char */
         char c = 'a'; //size of char is 2 bytes
 
-        /*Boolean type is accepting only true/false */
+        /*Boolean type is accepting only true/false.
+         * Default value of boolean is false 
+         */
 
         boolean correct = true;
         boolean wrong = false;
