@@ -1,0 +1,1 @@
+In this Java we will learn everything from scratch. And implementing all the concepts practically.
